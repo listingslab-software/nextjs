@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "nextjs-wordpress/.next",
+    "public": "nextjs-wordpress/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
