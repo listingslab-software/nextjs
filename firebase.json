@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "nextjs-wordpress/.next",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
