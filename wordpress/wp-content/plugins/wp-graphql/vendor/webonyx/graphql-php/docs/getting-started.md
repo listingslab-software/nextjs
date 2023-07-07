@@ -117,9 +117,9 @@ Obviously hello world only scratches the surface of what is possible.
 So check out next example, which is closer to real-world apps.
 Or keep reading about [schema definition](type-system/index.md).
 
-# Blog example
+# PWA
 It is often easier to start with a full-featured example and then get back to documentation
 for your own work. 
 
-Check out [Blog example of GraphQL API](https://github.com/webonyx/graphql-php/tree/master/examples/01-blog).
+Check out [PWA of GraphQL API](https://github.com/webonyx/graphql-php/tree/master/examples/01-blog).
 It is quite close to real-world GraphQL hierarchies. Follow instructions and try it yourself in ~10 minutes.

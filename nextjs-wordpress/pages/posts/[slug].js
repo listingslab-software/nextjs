@@ -32,7 +32,7 @@ export default function Post({ post, posts, preview }) {
             <article>
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | Next.js PWA with {CMS_NAME}
                 </title>
                 <meta
                   property="og:image"
