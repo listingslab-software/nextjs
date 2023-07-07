@@ -1,0 +1,12 @@
+{
+  "name": "nextjs-wordpress",
+  "version": "2.0.1",
+  "description": "NextJS App with a WordPress Headless CMS",
+  "scripts": {
+    "build": "clear && cd nextjs-wordpress && npm run build",
+    "start": "clear && cd nextjs-wordpress && npm start",
+    "test": "echo \"LGTM\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
